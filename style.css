@@ -1,0 +1,31 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.flexed {
+    display: flex;
+    background-color: bisque;
+}
+.felxitem_one{
+     margin-top: 110px;
+     margin-right: 20px;
+
+
+}
+.flexitem_two {
+    margin-top: 110px;
+    margin-right: 20px;
+
+}
+.flexitem_three{
+    margin-left: 50px;
+
+}
+.flexed_two {
+    display: flex;
+    background-color: rgb(116, 158, 144);
+    
+}
+.flexed_three{
+    display: flex;
+    /*align-items: flex-start;*/
+}
